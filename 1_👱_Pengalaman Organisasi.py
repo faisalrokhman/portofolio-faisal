@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Organizational Experience|Nailiyah",
+    page_title="Organizational Experience|Faisal",
     page_icon="👨‍🎓",
     layout="wide"
 )
