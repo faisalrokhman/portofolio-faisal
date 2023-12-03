@@ -8,9 +8,7 @@ st.set_page_config(
 
 st.title("SELAMAT DATANG DI PORTFOLIO SAYA 👨‍🎓")
 
-st.sidebar.success("SILAHKAN PILIH MENU DI ATAS")
-
-import streamlit as st
+st.sidebar.success("SILAHKAN PILIH MENU DI ATAS
 
 col1, col2 = st.columns(2)
 
